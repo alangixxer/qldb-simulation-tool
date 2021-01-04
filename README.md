@@ -152,7 +152,7 @@ In the Capabilities section, check "I acknowledge that AWS CloudFormation might 
 
 Now click Update stack and the test will automatically start.
 
-<img src="IMAGES/cloudformation-update-start.png" width="100" >
+<img src="IMAGES/cloudformation-update-start.png" width="400" >
 
 **Note** The test will only start if the previous test has completed.
 
