@@ -140,11 +140,11 @@ In the Required Parameters section, insert the QLDB Ledger name and add a suffix
 
 Click on next.
 
-![default](IMAGES/cloudformation-next.png)
+<img src="IMAGES/cloudformation-next.png" width="400" >
 
 Click on next again.
 
-![default](IMAGES/cloudformation-next.png)
+<img src="IMAGES/cloudformation-next.png" width="400" >
 
 In the Capabilities section, check "I acknowledge that AWS CloudFormation might create IAM resources."
 
