@@ -94,7 +94,7 @@ In the Capabilities section, check "I acknowledge that AWS CloudFormation might 
 
 Now click on Create stack.
 
-![default](IMAGES/Create-stack.png)
+<img src="IMAGES/Create-stack.png" width="400" >
 
 Ensure that the CloudFormation stack creates with no issues.  It will only take a few minutes. 
 
@@ -140,11 +140,11 @@ In the Required Parameters section, insert the QLDB Ledger name and add a suffix
 
 Click on next.
 
-<img src="IMAGES/cloudformation-next.png" width="400" >
+<img src="IMAGES/cloudformation-next.png" width="300" >
 
 Click on next again.
 
-<img src="IMAGES/cloudformation-next.png" width="400" >
+<img src="IMAGES/cloudformation-next.png" width="300" >
 
 In the Capabilities section, check "I acknowledge that AWS CloudFormation might create IAM resources."
 
