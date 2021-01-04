@@ -35,6 +35,8 @@ EU (Frankfurt) | [![Launch Module 1 in eu-central-1](http://docs.aws.amazon.com/
 
 A "Quick create stack" page will be opened that comes pre-populated with all required inputs.
 
+![default](IMAGES/quick-create.png)
+
 #### In the Stack name block. Leave as default or change to a unique name. 
 
 ![default](IMAGES/stack-name.png)
@@ -128,11 +130,27 @@ Now select update.
 
 ![default](IMAGES/cloudformation-update.png)
 
+In the Prerequisite - Prepare template block, select "Use current template" and then "Next".
+
+![default](IMAGES/cloudformation-use.png)
+
 In the Required Parameters section, insert the QLDB Ledger name and add a suffix. 
 
 ![default](IMAGES/cloudformation-update-params.png)
 
-Now click update and the test will automatically start.
+Click on next.
+
+![default](IMAGES/cloudformation-next.png)
+
+Click on next again.
+
+![default](IMAGES/cloudformation-next.png)
+
+In the Capabilities section, check "I acknowledge that AWS CloudFormation might create IAM resources."
+
+![default](IMAGES/capabilities-section.png)
+
+Now click Update stack and the test will automatically start.
 
 ![default](IMAGES/cloudformation-update-start.png)
 
