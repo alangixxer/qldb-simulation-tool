@@ -106,7 +106,7 @@ In the **AWS console**, enter "CloudWatch" in the search bar. Click on **CloudWa
 
 On the left of the CloudWatch page. Click on **Dashboards**.
 
-<img src="IMAGES/cloudwatch-dashboards-1.png" width="400" >
+<img src="IMAGES/cloudwatch-dashboards-1.png" width="200" >
 
 Now select the dashboard that matches you QLDB Ledger Name + suffix.  If you entered "None" then the name will follow a "v-r-<date>" format.
 
