@@ -10,7 +10,7 @@ This workshop can be deployed in any AWS region that supports the following serv
 
 - Amazon QLDB
 - AWS Lambda
-- AW Stepfunctions
+- AWS Stepfunctions
 - AWS CloudFormation
 
 You can refer to the [region table](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/) in the AWS documentation to see which regions have the supported services.
